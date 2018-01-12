@@ -5,8 +5,10 @@
 ### 环境要求 ENVIRONMENT REQUIREMENT
 
 * Python 3.x
+* 能联网
 
 ### 使用方法 HOW TO USE
+> For programmers: Skip this part and just run it.
 
 1. 下载choose_course.py
 2. 进入脚本所在目录，打开命令行
